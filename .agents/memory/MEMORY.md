@@ -1,0 +1,1 @@
+- [Root package installs](root-package-installs.md) — pnpm workspace-root dependencies require an explicit workspace-root add operation.
